@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd like to know more about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bilwasiva Basu Mallick.  Master's of Engineering in Computer Science & BE in EEE. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a smple soul and humble human.
+- I'm always here to help you.
+- I'm passionate about creative writing.
 
 What else do you need?
 
