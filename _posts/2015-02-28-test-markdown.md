@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: DATA SCIENCE QUEST
+subtitle: Introduction to the realm of Machine Learning
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+You can write cool Python codes for representing your learning model with the right ML Algorith,[WIKI](https://en.wikipedia.org/wiki/Machine_learning). Machine learning algorithms find natural patterns in data that generate insight and help you make better decisions and predictions. They are used every day to make critical decisions in medical diagnosis, stock trading, energy load forecasting, and more. There are many courses available now that will take you from having no knowledge of machine learning to being able to understand and implement the ML algorithms yourself.
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
 
-**Here is some bold text**
+**Machine Learning**
 
-## Here is a secondary heading
+## The main pillar of Data Science
 
-Here's a useless table:
+Here's a useful table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -24,15 +25,15 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about some refreshing and mind-boggling ML Algos?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![ML Algorithms](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Types-of-Machine-Learning-algorithms.jpg)
 
-It can also be centered!
+It can also be of Deep Learning!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+![DL Algorithms](https://www.houseofbots.com/images/news/11747/cover.png){: .center-block :}
 
-Here's a code chunk:
+Here's a code chunk of some Javascript object:
 
 ~~~
 var foo = function(x) {
