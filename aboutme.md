@@ -21,4 +21,4 @@ What else do you need?
 
 ### my history
 
-Have a look at my portfolio and blogs/ Feel free to navigate through my technological & creative musings [my blog](https://bilwasiva.wordpress.com/) and it will quench **all** your curiosities.
+Have a look at my portfolio and blogs/ Feel free to navigate through my technological & creative musings at [my blog](https://bilwasiva.wordpress.com/) and it will quench **all** your curiosities.
