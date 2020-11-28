@@ -1,17 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd like to know more about me
+subtitle: A simple & humble soul seeking the bliss of Knowledge & Serendipity!!!
 ---
 
-My name is Bilwasiva Basu Mallick.  Master's of Engineering in Computer Science & BE in EEE. I have the following qualities:
+My name is Bilwasiva Basu Mallick.  I have done my Master's in Computer Science & Bachelor's in EEE. These following qualities define me:
 
-- I am a smple soul and humble human.
-- I'm always here to help you.
+- Master's in Computer Science Engineering.
+- AI-ML-DL & Data Science Enthusiast.
+- Competitive Coder & Tech Geek.
+- Interest in Computer Vision & Quantum Computing.
+- Experience in Open Source Development.
 - I'm passionate about creative writing.
+- I Love Algorithms, Maths, Problem Solving & Cricket.
+- Truth Seeker + Quizzer + Knowledge Aficionado + Photorapher + Detail Oriented.
+- Favourite Pastime- Spending time with Parents & talking with them about everything under the sun.
+- And lastly, a grand welcome to my page: I'm always here to help you.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Have a look at my portfolio and blogs/ Feel free to navigate through my technological & creative musings [my blog](https://bilwasiva.wordpress.com/) and it will quench **all** your curiosities.
